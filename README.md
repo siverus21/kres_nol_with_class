@@ -1,0 +1,1 @@
+# kres_nol_with_class
