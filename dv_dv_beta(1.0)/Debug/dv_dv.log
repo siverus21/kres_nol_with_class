@@ -1,0 +1,3 @@
+﻿  peresozdanie.cpp
+g:\uu2\не_входить_нельзя\c++\dv_dv\peresozdanie.cpp(147): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+g:\uu2\не_входить_нельзя\c++\dv_dv\peresozdanie.cpp(189): error C3867: "Players::Player1": нестандартный синтаксис; используйте "&", чтобы создать указатель на член

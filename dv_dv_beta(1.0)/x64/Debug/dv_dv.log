@@ -1,0 +1,4 @@
+﻿  peresozdanie.cpp
+c:\users\администратор\desktop\kres_nol_with_class-master\dv_dv\peresozdanie.cpp(145): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\администратор\desktop\kres_nol_with_class-master\dv_dv\peresozdanie.cpp(147): warning C4101: SecondPlayer: неиспользованная локальная переменная
+  dv_dv.vcxproj -> C:\Users\Администратор\Desktop\kres_nol_with_class-master\dv_dv\x64\Debug\dv_dv.exe
